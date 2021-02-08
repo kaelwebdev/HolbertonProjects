@@ -1,7 +1,7 @@
-<img src="https://drive.google.com/uc?export=view&id=1KoHZGyKfgG8hAjWPm218VLemN7H03Fq3" alt="screenshot holberton panel" width="300"/>
-
 # Holberton Proyects
 This is an index for all my holberton projects.
+
+<img src="https://drive.google.com/uc?export=view&id=1KoHZGyKfgG8hAjWPm218VLemN7H03Fq3" alt="screenshot holberton panel" width="300"/>
 
 ## What is holberton?
 
@@ -14,14 +14,15 @@ In the next 9 months (specialization phase) I improve my skills as a **Full-Stac
 
 ## Index
 
-* **Low Level Programming**:
-  * [Low Level Programming](https://github.com/kaelwebdev/holbertonschool-low_level_programming)
+* **Low Level Programming**
+  * [Low Level Programming](https://github.com/kaelwebdev/holbertonschool-low_level_programming)  
+  It is a megaproject made up of 26 projects.  
   
 * **Binary trees**:
   * [Binary trees](https://github.com/kaelwebdev/binary_trees)
   
-* **Search Algorithms**:
-  * [Binary trees](https://github.com/kaelwebdev/binary_trees)
+* **Sorting Algorithms**:
+  * [Sorting Algorithms](https://github.com/leocjj/sorting_algorithms)
   
 * **Interpreter for Monty ByteCodes Files**:
   * [Monty](https://github.com/kaelwebdev/monty)
@@ -33,7 +34,8 @@ In the next 9 months (specialization phase) I improve my skills as a **Full-Stac
   * [Simple Shell](https://github.com/felipesv/simple_shell)
   
 * **Higher Level Programming**:
-  * [Higher Level Programming](https://github.com/kaelwebdev/holbertonschool-higher_level_programming)
+  * [Higher Level Programming](https://github.com/kaelwebdev/holbertonschool-higher_level_programming)  
+  It is a megaproject made up of 22 projects.
   
 * **Airbnb**: 
   * [Airbnb - console](https://github.com/kaelwebdev/AirBnB_clone)
@@ -43,27 +45,32 @@ In the next 9 months (specialization phase) I improve my skills as a **Full-Stac
   * [Airbnb - Web framework](https://github.com/kaelwebdev/AirBnB_clone_v2/tree/master/web_flask)
   * [Airbnb - RESTful API](https://github.com/kaelwebdev/AirBnB_clone_v3)
   * [Airbnb - Web dynamic](https://github.com/kaelwebdev/https://github.com/kaelwebdev/AirBnB_clone_v4)
+  * Airbnb - All in one (someday)
   
 * **System Engineering Devops**:
-  * [System Engineering Devops](https://github.com/kaelwebdev/holberton-system_engineering-devops)
+  * [System Engineering Devops](https://github.com/kaelwebdev/holberton-system_engineering-devops)  
+  It is a megaproject made up of 27 projects.
   
 * **Web Front-End**:
-  * [Web Front-End](https://github.com/kaelwebdev/holbertonschool-web_front_end)
+  * [Web Front-End](https://github.com/kaelwebdev/holbertonschool-web_front_end)  
+  It is a megaproject made up of 12 projects.
   
 * **headphones page**:
-  * [headphones page](https://github.com/kaelwebdev/holberton-headphones)
+  * [headphones page - Design without import external CSS](https://github.com/kaelwebdev/holberton-headphones)
   
 * **Smiley Page**:
   * [Smiley Page - Design using bootstrap](https://github.com/kaelwebdev/holberton-smiling-school)
   
 * **Web Back-End**:
-  * [Web Back-End](https://github.com/kaelwebdev/holbertonschool-web_back_end)
+  * [Web Back-End](https://github.com/kaelwebdev/holbertonschool-web_back_end)  
+  It is a megaproject made up of 21 projects.
   
 * **Files Manager**:
   * [Files Manager](https://github.com/kaelwebdev/holbertonschool-files_manager)
   
 * **Job Interview Exercises**:
-  * [Job Interview Exercises](https://github.com/kaelwebdev/holbertonschool-interview)
+  * [Job Interview Exercises](https://github.com/kaelwebdev/holbertonschool-interview)  
+  It is a megaproject made up of 21 projects.
 
 
 ## Author :copyright:
