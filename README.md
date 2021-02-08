@@ -6,7 +6,7 @@ This is an index for all my holberton projects.
 Holberton is a company dedicated to improving programming skills to a high level. Unlike a university, the curriculum is 100% focused on the job market.
 
 ## My experience
-I entered Holberton with prior knowledge of programming, and in the first 9 months (foundation phase) my allogeneic capacity increased enormously. I increased my curiosity to understand more deeply each line of code that I used. They taught me good practices in different languages. They also gave me the opportunity to work with a team of more than 50 people and thus improve all the skills related to teamwork. I learned all the topics a **Full-Stack Software Engineer** should know, more in fact.
+I entered Holberton with prior knowledge of programming, and in the first 9 months (foundation phase) my algorithmic capacity increased enormously. I increased my curiosity to understand more deeply each line of code that I used. They taught me good practices in different languages. They also gave me the opportunity to work with a team of more than 50 people and thus improve all the skills related to teamwork. I learned all the topics a **Full-Stack Software Engineer** should know, more in fact.
 
 In the next 9 months (specialization phase) I improve my skills as a **Full-Stack Web Developer**. For example I learned things I did not know, or different ways to implement certain recurring solutions.
 
