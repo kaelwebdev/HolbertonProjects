@@ -49,7 +49,7 @@ In the next 9 months (specialization phase) I improve my skills as a **Full-Stac
   * [Web Front-End](https://github.com/kaelwebdev/holbertonschool-web_front_end)
   
 * **headphones page**:
-  * [headphones page]https://github.com/kaelwebdev/holberton-headphones)
+  * [headphones page](https://github.com/kaelwebdev/holberton-headphones)
   
 * **Smiley Page**:
   * [Smiley Page - Design using bootstrap](https://github.com/kaelwebdev/holberton-smiling-school)
