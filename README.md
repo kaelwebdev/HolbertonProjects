@@ -70,7 +70,7 @@ In the next 9 months (specialization phase) I improve my skills as a **Full-Stac
   
 * **Job Interview Exercises**:
   * [Job Interview Exercises](https://github.com/kaelwebdev/holbertonschool-interview)  
-  It is a megaproject made up of 21 projects.
+  It is a megaproject made up of 24 projects.
 
 
 ## Author :copyright:
