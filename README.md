@@ -27,7 +27,7 @@ In the next 9 months (specialization phase) I improve my skills as a **Full-Stac
 * **My Own Version Of The Printf Function**:
   * [Printf](https://github.com/kaelwebdev/printf)
   
- * **My Own Shell Version**:
+* **My Own Shell Version**:
   * [Simple Shell](https://github.com/felipesv/simple_shell)
   
 * **Higher Level Programming**:
