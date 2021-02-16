@@ -24,20 +24,20 @@ In the next 9 months (specialization phase) I improve my skills as a **Full-Stac
 * **Sorting Algorithms**:
   * [Sorting Algorithms](https://github.com/leocjj/sorting_algorithms)
   
-* **Interpreter for Monty ByteCodes Files**:
+* :star: **Interpreter for Monty ByteCodes Files**:
   * [Monty](https://github.com/kaelwebdev/monty)
   
-* **My Own Version Of The Printf Function**:
+* :star: **My Own Version Of The Printf Function**:
   * [Printf](https://github.com/kaelwebdev/printf)
   
-* **My Own Shell Version**:
+* :star: **My Own Shell Version**:
   * [Simple Shell](https://github.com/felipesv/simple_shell)
   
 * **Higher Level Programming**:
   * [Higher Level Programming](https://github.com/kaelwebdev/holbertonschool-higher_level_programming)  
   It is a megaproject made up of 22 projects.
   
-* **Airbnb**: 
+* :star: **Airbnb**: 
   * [Airbnb - console](https://github.com/kaelwebdev/AirBnB_clone)
   * [Airbnb - Web static](https://github.com/kaelwebdev/AirBnB_clone_v2/tree/master/web_static)
   * [Airbnb - MySQL](https://github.com/kaelwebdev/AirBnB_clone_v2)
@@ -55,7 +55,7 @@ In the next 9 months (specialization phase) I improve my skills as a **Full-Stac
   * [Web Front-End](https://github.com/kaelwebdev/holbertonschool-web_front_end)  
   It is a megaproject made up of 12 projects.
   
-* **headphones page**:
+* :star: **headphones page**:
   * [headphones page - Design without import external CSS](https://github.com/kaelwebdev/holberton-headphones)
   
 * **Smiley Page**:
@@ -65,7 +65,7 @@ In the next 9 months (specialization phase) I improve my skills as a **Full-Stac
   * [Web Back-End](https://github.com/kaelwebdev/holbertonschool-web_back_end)  
   It is a megaproject made up of 21 projects.
   
-* **Files Manager**:
+* :star: **Files Manager**:
   * [Files Manager](https://github.com/kaelwebdev/holbertonschool-files_manager)
   
 * **Job Interview Exercises**:
